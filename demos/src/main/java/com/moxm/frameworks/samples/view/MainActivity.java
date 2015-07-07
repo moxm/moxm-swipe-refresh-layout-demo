@@ -1,5 +1,5 @@
 /*
- * Created by Storm Zhang, Mar 31, 2014.
+ * Created by Richard Ma
  */
 
 package com.moxm.frameworks.samples.view;
